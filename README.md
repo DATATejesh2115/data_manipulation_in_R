@@ -68,7 +68,6 @@ Grouped data by:
 ## 🛠️ Technologies Used
 
 - **Language:** R
-- **Packages:** `dplyr`, `lubridate`, `ggplot2`, `readr`
 
 ---
 
@@ -77,9 +76,29 @@ Grouped data by:
 
 ## Description
 
-- `data_cleaning.R`: R script for cleaning the raw trip data.
-- `202301-divvy-tripdata.csv`: Raw trip data for January 2023.
-- `202301-divvy-tripdata-cleaned.csv`: Cleaned trip data ready for analysis.
+## Description of Key Files
+
+- `.Rprofile`: Sets environment options for R sessions.
+- `.gitignore`: Specifies intentionally untracked files to ignore in Git.
+- `.README`: (Optional) Additional readme or notes file.
+- `config.R`: Contains configuration settings and parameters.
+- `data_manipulation_in_R.Rproj`: RStudio project file for workspace management.
+- `data_cleaning.R`: Cleans raw Divvy trip data.
+- `data_prep.R`: Prepares and reshapes data for analysis.
+- `renv.lock`: Lock file capturing exact versions of R packages used.
+- `renv/`: Folder used by the **renv** package to manage dependencies.
+- `data/`: Folder containing additional or intermediate datasets.
+
+---
+
+## How to Use
+
+1. Open the `data_manipulation_in_R.Rproj` file in RStudio.
+2. Run `data_cleaning.R` to clean raw data.
+3. Run `data_prep.R` for preprocessing steps.
+
+
+---
 
 ---
 
