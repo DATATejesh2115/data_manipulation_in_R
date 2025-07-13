@@ -74,12 +74,18 @@ Grouped data by:
 
 ## 📁 Folder Structure
 
-📦 divvy-data-cleaning/
-┣ 📄 README.md
-┣ 📄 data_cleaning.R
-┣ 📄 hourly_analysis.R
-┣ 📄 202301-divvy-tripdata.csv
-┗ 📄 202301-divvy-tripdata-cleaned.csv
+
+## Description
+
+- `data_cleaning.R`: R script for cleaning the raw trip data.
+- `hourly_analysis.R`: R script for performing hourly analysis on the cleaned data.
+- `202301-divvy-tripdata.csv`: Raw trip data for January 2023.
+- `202301-divvy-tripdata-cleaned.csv`: Cleaned trip data ready for analysis.
+
+---
+
+Feel free to run the R scripts in order to process and analyze the data.
+
 
 ---
 
