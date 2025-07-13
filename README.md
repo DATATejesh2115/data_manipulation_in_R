@@ -78,7 +78,6 @@ Grouped data by:
 ## Description
 
 - `data_cleaning.R`: R script for cleaning the raw trip data.
-- `hourly_analysis.R`: R script for performing hourly analysis on the cleaned data.
 - `202301-divvy-tripdata.csv`: Raw trip data for January 2023.
 - `202301-divvy-tripdata-cleaned.csv`: Cleaned trip data ready for analysis.
 
