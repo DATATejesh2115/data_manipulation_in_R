@@ -92,6 +92,24 @@ Grouped data by:
 
 ---
 
-## © License
+---
 
-This repository is for learning and demonstration purposes only and uses publicly available data. No commercial use intended.
+## 📊 Data Source
+
+This dataset is publicly available on Kaggle:
+
+**Google Data Analytics Capstone Project: Cyclistic**  
+➡️ [View on Kaggle](https://www.kaggle.com/datasets/sinderpreet/datainsight-google-analytics-capstone-project)
+
+📌 Dataset creator: Sinderpreet  
+📁 Original data source: Divvy / Lyft Bike Sharing (Chicago)
+
+---
+
+## ⚖️ License
+
+The dataset is distributed under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).  
+This means it is free to use, modify, and share with no restrictions.
+
+This repository and its scripts are intended for educational purposes only.
+
